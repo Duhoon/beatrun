@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694384422518",
+    "firebase_url": "https://beatrun-02.firebaseio.com",
+    "project_id": "beatrun-02",
+    "storage_bucket": "beatrun-02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694384422518:android:7218cb0bbd56c46518f957",
+        "android_client_info": {
+          "package_name": "com.lastsemester.beatrun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694384422518-ncgk0jfrqv8emf42q7changqoosqssaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lastsemester.beatrun",
+            "certificate_hash": "1d983e21d50b8a31db5bd5f14aef2fed236edfc1"
+          }
+        },
+        {
+          "client_id": "694384422518-a7s86ecdp4hth3h6f533k4kbvho5vthv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKmNheioAp4N2IaLwK3kWjzB7obT9eLwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694384422518-a7s86ecdp4hth3h6f533k4kbvho5vthv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomedNumberPicker">
+        <!--Display textSize -->
+        <item name="android:textSize">50sp</item>
+        <!--Display textColor -->
+        <item name="android:editTextColor">@color/white</item>
+
+    </style>
+    <style name="EditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="colorControlNormal">@color/purple_500</item>
+        <item name="colorControlActivated">@color/purple_500</item>
+    </style>
+
+    <style name="BtnStyle" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/exo_gray</item>
+    </style>
+</resources>
